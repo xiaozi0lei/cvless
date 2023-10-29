@@ -1,7 +1,7 @@
 # site settings
 
-title: cvless
-description: Jekyll theme for a beautiful online CV
+title: 石头和卜卜
+description: 石头的小窝
 taglong: Jekyll theme for a beautiful online CV
 tagshort: Jekyll theme
 url: https://cvless.netlify.app
@@ -19,12 +19,12 @@ photo: /assets/jpg/photo.jpg
 # social media links
 
 social:
-  facebook: username
-  github: username
-  instagram: username
-  linkedin: username
+  facebook: xiaozi0lei
+  github: xiaozi0lei
+  instagram: xiaozi0lei
+  linkedin: xiaozi0lei
   stackoverflow: 0000000/username
-  twitter: username
+  twitter: xiaozi0lei
 
 # build settings
 
